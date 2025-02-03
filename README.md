@@ -1,4 +1,4 @@
-# FINE 3300 - Mortgage Payment Calculator [Assignment #1 Description]
+# FINE 3300 - Mortgage Payment Calculator [Assignment #1]
 
 Project Overview
 
