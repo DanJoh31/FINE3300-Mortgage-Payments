@@ -60,7 +60,7 @@ def mortgage_payments(principal, rate, amortization):
 
 # Part 2: Prompting the user for input
 principal = float(input("Enter the principal amount: "))  # Get principal amount from user
-rate = float(input("Enter the quoted interest rate (as a percent, e.g., 7.8% means to input '7.8'): "))  # Get interest rate from user
+rate = float(input("Enter the quoted interest rate (as a percent, e.g., 7.8% means you should input: 7.8): "))  # Get interest rate from user
 amortization = int(input("Enter the amortization period in years: "))  # Get amortization period from user
 
 # Part 3: Calculating and displaying payments
