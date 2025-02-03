@@ -1,4 +1,4 @@
-# FINE3300 Assignment #1 - Mortgage Payment Calculator
+# FINE3300 Assignment #1 - Mortgage Payment Calculator [By: Daniel Johannes]
 
 # Part 1: Function to calculate mortgage payments
 def mortgage_payments(principal, rate, amortization):
