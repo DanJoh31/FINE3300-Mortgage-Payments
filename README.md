@@ -43,4 +43,4 @@ Rapid Weekly Payment: $152.60
 
 ### Author
 Daniel Johannes
-This program was created as part of the FINE3300 course at York University.
+[This program was created as part of the FINE3300 course at York University.]
