@@ -32,8 +32,15 @@ Weekly Payment: $140.61
 Rapid Bi-weekly Payment: $305.20
 Rapid Weekly Payment: $152.60
 
+
 ## Getting Started
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine (such as through "Command Prompt"):
+   git clone https://github.com/DanJoh31/FINE3300-Mortgage-Payments.git
 2. Navigate to the project folder:
-   ```bash
-   cd FINE3300-Mortgage-Payments
+    cd FINE3300-Mortgage-Payments
+3. Run the program:
+    python mortgage_calculator.py
+
+### Author
+Daniel Johannes
+This program was created as part of the FINE3300 course at York University.
